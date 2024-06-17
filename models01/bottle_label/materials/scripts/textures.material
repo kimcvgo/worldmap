@@ -1,0 +1,14 @@
+material Bottle_label/Bottle_label
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture bottle_label.png
+      }
+    }
+  }
+}
+
