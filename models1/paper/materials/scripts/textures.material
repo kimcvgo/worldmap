@@ -1,0 +1,14 @@
+material Paper/Paper
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture paper.png
+      }
+    }
+  }
+}
+
